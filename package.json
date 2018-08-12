@@ -1,0 +1,13 @@
+{
+  "name": "parcel-plugin-resources",
+  "version": "1.0.0",
+  "description": "Parcel plugin to watch and copy files recursively from source globs to the distribution directory.",
+  "main": "index.js",
+  "repository": "git@github.com:ChrisAckerman/parcel-plugin-resources.git",
+  "author": "Chris Ackerman <chris@topher.land>",
+  "license": "MIT",
+  "keywords": ["parcel", "plugin", "cpx", "copy", "watch", "resource", "static"],
+  "dependencies": {
+    "cpx": "^1.5.0"
+  }
+}
